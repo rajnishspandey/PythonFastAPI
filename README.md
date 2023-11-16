@@ -29,3 +29,11 @@
 2. Domain Name - programmingdoor.com
 3. File Name - index.html
 4. QueryString - ?name=Rajnish
+
+## Flask Project Structure
+    ProjectName/
+        templates/
+            index.html
+        static/
+            style.css
+        app.py
