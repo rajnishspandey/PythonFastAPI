@@ -22,3 +22,10 @@
 
 ## to create gitignore file which you dont want to push to the github
 > touch .getignore
+
+### URL - Uniform Resource Locator
+> it contains
+1. Protocol - Typically http or https
+2. Domain Name - programmingdoor.com
+3. File Name - index.html
+4. QueryString - ?name=Rajnish
