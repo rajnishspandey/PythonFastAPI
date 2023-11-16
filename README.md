@@ -1,4 +1,16 @@
-# This repoository contains Fast API Code
+# This repoository contains the example of FastAPI
+> 1. FirstAPI
+> ## Testing first API
+![FAST API](image-3.png)
+
+> 2. programmingdoor.com search API (similar to google.com)
+> ## Home Page
+![FAST API - programmingdoor.com](image.png)
+> ## Type the keyword and and press enter
+![FAST API - programmingdoor.com](image-1.png)
+
+> ## Next Page (output)
+![FAST API - programmingdoor.com](image-2.png)
 
 ## create virtual env
 > python -m venv env
