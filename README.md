@@ -16,3 +16,6 @@ windows - curl http://127.0.0.1:5000
 or
 
 curl -i -X GET http://localhost:5000/
+
+#to create gitignore file which you dont want to push to the github
+touch .getignore
